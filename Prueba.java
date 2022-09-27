@@ -2,7 +2,8 @@ public class Prueba {
 
 	public static void main(String args[]) {
 
-		System.out.println("De Lucas Alvarez");
+		System.out.println("Apellidos: De Lucas Alvarez");
+		System.out.println("Edad: 19 Año de nacimiento: 2003");
 
 	}
 	
